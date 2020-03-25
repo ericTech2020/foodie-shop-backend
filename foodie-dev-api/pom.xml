@@ -13,7 +13,7 @@
 
 	<!--<packaging>jar</packaging>-->
 	<!-- 打包war [1] -->
-	<packaging>war</packaging>
+	<packaging>jar</packaging>
 
 	<dependencies>
 

@@ -1,12 +1,10 @@
 package com.imooc.pojo.vo;
 
-import javax.annotation.sql.DataSourceDefinition;
 import java.util.List;
 
 /**
- * 二级分类VO,展示给前端的view
+ * 二级分类VO
  */
-
 public class CategoryVO {
 
     private Integer id;
