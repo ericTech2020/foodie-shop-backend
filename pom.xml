@@ -141,6 +141,12 @@
 			<version>1.7.21</version>
 		</dependency>
 
+        <!-- 引入 redis 依赖 -->
+        <dependency>
+            <groupId>org.springframework.boot</groupId>
+            <artifactId>spring-boot-starter-data-redis</artifactId>
+        </dependency>
+
 		<!-- 打包war [3] 添加依赖 -->
 		<!--<dependency>
 			<groupId>javax.servlet</groupId>
